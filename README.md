@@ -6,19 +6,19 @@ Data Mining on Google Analytics
 AnalyticsMiner help you to analyze your Google Analytics report and give you an overview about what is happening on your web site.  
 For now, package provides the following analyzes but we are plannig to improve it very fast :)
 
-*Bounce Analysis. Compares with the previous period and shows a boxplot on daily bounce rates.  
+* Bounce Analysis. Compares with the previous period and shows a boxplot on daily bounce rates.  
 
-*Device Performance Analysis. Gives different metrics over time by device categories.  
+* Device Performance Analysis. Gives different metrics over time by device categories.  
 
-*Internal Search Analysis. Shows top searched keywords by traffic source  
+* Internal Search Analysis. Shows top searched keywords by traffic source  
 
-*Landing Page Analysis. Shows landing pages with the highest and lowest bounce score by their traffic sources.  
+* Landing Page Analysis. Shows landing pages with the highest and lowest bounce score by their traffic sources.  
 
-*Mobile Landing Page Analysis. Shows mobile landing pages with the highest and lowest bounce score by their traffic sources.  
+* Mobile Landing Page Analysis. Shows mobile landing pages with the highest and lowest bounce score by their traffic sources.  
 
-*Page Business Analysis. Shows top valued pages with their traffic  
+* Page Business Analysis. Shows top valued pages with their traffic  
 
-*Source Analysis. Gives and overview about your acqusition channels.  
+* Source Analysis. Gives and overview about your acqusition channels.  
 
 
 ##Usage
