@@ -45,4 +45,3 @@ landingPageAnalysis(ClientID, ClientSecret, ViewID, StartDate, EndDate, SplitDay
 mobileLandingPageAnalysis(ClientID, ClientSecret, ViewID, StartDate, EndDate, SplitDaywise)  
 
 devicePerformanceAnalysis(ClientID, ClientSecret, ViewID, StartDate, EndDate, SplitDaywise)  
-
